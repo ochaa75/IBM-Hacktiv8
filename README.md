@@ -23,9 +23,8 @@ Platform ini dibangun dengan konsep **tanya jawab seperti NGL**, namun dengan pe
 ## 💡 Fitur Utama
 
 ### 📢 Pengumuman & Tugas
-- Menampilkan pengumuman terbaru dalam **2 kolom grid**.  
-- Admin dapat menambahkan file untuk **unduh tugas**.  
-- Admin dapat **edit** atau **hapus** pengumuman.  
+- Menampilkan pengumuman terbaru dalam **2 kolom grid**.    
+- Admin dapat **edit** atau **hapus** dan **me-replay** pengumuman juga pertanyaan mahasiswa.  
 - UI modern dengan tema **ungu & biru**, konsisten di semua halaman.  
 
 ### 💬 Komentar & Balasan
