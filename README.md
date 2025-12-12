@@ -5,6 +5,8 @@ Selamat datang di **Project Web Tanya Jawab**, sebuah platform yang saya ciptaka
 Web ini dirancang untuk **mendekatkan hubungan antara admin dan mahasiswa**, membuat proses tanya jawab lebih **transparan, terbuka, dan anonim**, sehingga semua siswa memiliki hak yang sama untuk bertanya tanpa harus malu atau takut terjadi konflik.
 
 ---
+kunjungi web saya : https://ocha-ask.web.app
+status : off
 
 ## 🖥 Deskripsi Web
 
